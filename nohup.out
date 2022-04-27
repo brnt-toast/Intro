@@ -1,0 +1,15 @@
+[I 2022-04-27 15:22:32.223 LabApp] JupyterLab extension loaded from /Users/blacc/Library/Python/3.8/lib/python/site-packages/jupyterlab
+[I 2022-04-27 15:22:32.223 LabApp] JupyterLab application directory is /Users/blacc/Library/Python/3.8/share/jupyter/lab
+[I 15:22:32.227 NotebookApp] Serving notebooks from local directory: /Users/blacc/Documents/Intro
+[I 15:22:32.227 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 15:22:32.227 NotebookApp] http://localhost:8888/?token=0c9c1cf691c7bead8a4aac0c3694b24e8f2ebe015e6ebf90
+[I 15:22:32.227 NotebookApp]  or http://127.0.0.1:8888/?token=0c9c1cf691c7bead8a4aac0c3694b24e8f2ebe015e6ebf90
+[I 15:22:32.227 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:22:32.231 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/blacc/Library/Jupyter/runtime/nbserver-15268-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=0c9c1cf691c7bead8a4aac0c3694b24e8f2ebe015e6ebf90
+     or http://127.0.0.1:8888/?token=0c9c1cf691c7bead8a4aac0c3694b24e8f2ebe015e6ebf90
+[I 15:23:50.412 NotebookApp] Saving file at /README.md
